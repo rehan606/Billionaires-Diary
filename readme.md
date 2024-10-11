@@ -2,7 +2,7 @@
 <h3 align="center">Html Template</h3>
 
 <p align="center">All Details Collections of Billionaires</p>
-
+ 
 
 ## Project Live Link:
 <p align="center"> <a href="https://rehan606.github.io/Billionaires-Diary/" >Click Here to Visit Live Project</a> </p>
